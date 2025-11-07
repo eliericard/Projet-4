@@ -3,3 +3,10 @@ print("hello world")
 a=3
 b = a + 4
 print(b)
+
+
+j = [1000]
+for i in j:
+    print(i, b, a)
+
+
